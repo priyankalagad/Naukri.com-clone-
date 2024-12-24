@@ -1,0 +1,9 @@
+# Ignore target folder (build artifacts)
+/target/
+# Ignore IDE files
+*.iml
+.idea/
+*.class
+# Ignore system files
+.DS_Store
+Thumbs.db
